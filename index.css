@@ -1,0 +1,89 @@
+.main-wrapper {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+.main {
+  position: relative;
+  background-color: #d25b70;
+  height: 250px;
+  width: 400px;
+  margin-top: 200px;
+}
+.lines1 {
+  position: absolute;
+  width: 80px;
+  height: 8px;
+  top: 200;
+  border-radius: 2px;
+  left: 100;
+  background-color: #f2e09f;
+  border-radius: 10px;
+}
+.lines2 {
+  position: absolute;
+  width: 80px;
+  height: 8px;
+  top: 166;
+  left: 110;
+  background-color: #f2e09f;
+  border-radius: 2px;
+  transform: rotate(36deg);
+  border-radius: 10px;
+}
+.lines3 {
+  position: absolute;
+  width: 80px;
+  height: 8px;
+  top: 147;
+  left: 134;
+  background-color: #f2e09f;
+  border-radius: 2px;
+  transform: rotate(65deg);
+  border-radius: 10px;
+}
+.lines4 {
+  position: absolute;
+  width: 80px;
+  height: 8px;
+  top: 142;
+  left: 161;
+  background-color: #f2e09f;
+  border-radius: 2px;
+  transform: rotate(90deg);
+  border-radius: 10px;
+}
+.lines5 {
+  position: absolute;
+  width: 80px;
+  height: 8px;
+  top: 147;
+  left: 187;
+  background-color: #f2e09f;
+  border-radius: 2px;
+  transform: rotate(115deg);
+  border-radius: 10px;
+}
+.lines6 {
+  position: absolute;
+  width: 80px;
+  height: 8px;
+  top: 166;
+  left: 210;
+  background-color: #f2e09f;
+  border-radius: 2px;
+  transform: rotate(144deg);
+  border-radius: 10px;
+}
+
+.lines7 {
+  position: absolute;
+  width: 80px;
+  height: 8px;
+  top: 200;
+  left: 220;
+  background-color: #f2e09f;
+  border-radius: 2px;
+  transform: rotate(180deg);
+  border-radius: 10px;
+}
